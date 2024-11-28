@@ -1,3 +1,5 @@
+![Me](https://github.com/user-attachments/assets/79ebc72c-1465-47f5-8212-ef6cb3ef8459)
+
 - 👋 Hi, I’m @albamdls
 - 👀 I’m interested in 🏃 &  💻
 - 🌱 I’m currently learning PHP, Java, JavaScript, HTML5, CSS3 & MySQL
