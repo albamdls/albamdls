@@ -1,4 +1,5 @@
-<img width="100%" style="text-align:center" alt="Learn web development with me, Chiaki Sato _3" src="https://github.com/user-attachments/assets/679daa80-373d-45c8-9b9b-01ef57c332b0">
+<img width="100%" style="text-align:center" src="https://github.com/user-attachments/assets/679daa80-373d-45c8-9b9b-01ef57c332b0">
+
 
 - 👋 Hi, I’m @albamdls
 - 👀 I’m interested in 🏃 &  💻
