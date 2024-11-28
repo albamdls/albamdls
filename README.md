@@ -1,5 +1,3 @@
-<img width="100%" style="text-align:center" src="https://github.com/user-attachments/assets/679daa80-373d-45c8-9b9b-01ef57c332b0">
-
 - 👋 Hi, I’m @albamdls
 - 👀 I’m interested in 🏃 &  💻
 - 🌱 I’m currently learning PHP, Java, JavaScript, HTML5, CSS3 & MySQL
