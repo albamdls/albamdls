@@ -4,7 +4,7 @@
 - 💞️ I am looking to collaborate on projects that allows me to develop my full potential.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like animals, nature, cook & travel.
-- 📫 How to reach me albamoradelasen@gmail.com
+- 📫 How to reach me amoradelasen@gmail.com
 
 <!---
 albamdls/albamdls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
