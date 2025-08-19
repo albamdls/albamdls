@@ -29,7 +29,6 @@ I-am-albamdls@github
 
 <hr>
 
-<img align="right" alt="Coding" width="300" src="./assets/me.png"/>
 
 </div>
 
