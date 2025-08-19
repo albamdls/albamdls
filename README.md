@@ -11,7 +11,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p> -->
 <div align="center">
 
-<img align="right" alt="Coding" width="300" src="./assets/me.png"/>
+<img align="right" alt="Coding" width="250" src="./assets/me.png"/>
 
 <hr>
 
