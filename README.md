@@ -29,7 +29,7 @@ I-am-albamdls@github
 
 <hr>
 
-<img alt="Coding" width="300" src="./assets/me.png"/>
+<img align="right" alt="Coding" width="300" src="./assets/me.png"/>
 
 </div>
 
