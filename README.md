@@ -10,8 +10,8 @@
 </h3>
 <hr>
 <img align="right" alt="Coding" width="250" src="./assets/me.png"/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p> -->
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p>
+<br>
 ```
 I-am-albamdls@github
 -------------------------
@@ -35,14 +35,15 @@ I-am-albamdls@github
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
 </div>
 <div align="center">
-  <img src="./assets/running_pikachu.gif" width="200" />
-  <img src="./assets/running_pikachu.gif" width="200" />
-  <img src="./assets/running_pikachu.gif" width="200" />
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
 </div>
 
 <br>
 
 ## 🛠️ My Skills
+
 <div align="left">
 ### 👨‍💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,8 +53,8 @@ I-am-albamdls@github
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
 ### 🧰 Frameworks and Libraries
+
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -62,11 +63,13 @@ I-am-albamdls@github
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 🗄️ Databases
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 💻 Software and Tools
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -79,6 +82,7 @@ I-am-albamdls@github
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ☁️ Cloud and DevOps (in progress 🚀)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
