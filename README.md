@@ -8,9 +8,10 @@
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Data+and+Process+Analysis+Student;Big+Data+Enthusiast;Future+Cloud+Engineer" alt="Typing SVG" />
 </h3>
-<!-- <img align="right" alt="Coding" width="300" src="./assets/me.png"/> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p> -->
 <div align="center">
+
+<img align="right" alt="Coding" width="300" src="./assets/me.png"/>
 
 <hr>
 
