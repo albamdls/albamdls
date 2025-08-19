@@ -39,11 +39,11 @@ I-am-albamdls@github
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
 
 <p align="center">
-  <img src="./assets/running_pikachu.gif" width="150" />
-  <img src="./assets/running_pikachu.gif" width="150" />
-  <img src="./assets/running_pikachu.gif" width="150" />
-  <img src="./assets/running_pikachu.gif" width="150" />
-  <img src="./assets/running_pikachu.gif" width="150" />
+  <img src="./assets/running_pikachu.gif" width="50" />
+  <img src="./assets/running_pikachu.gif" width="50" />
+  <img src="./assets/running_pikachu.gif" width="50" />
+  <img src="./assets/running_pikachu.gif" width="50" />
+  <img src="./assets/running_pikachu.gif" width="50" />
 </p>
 
 <br>
