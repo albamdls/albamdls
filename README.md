@@ -1,3 +1,6 @@
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Data+and+Process+Analysis+Student;Big+Data+Enthusiast;Future+Cloud+Engineer" alt="Typing SVG" />
+</h3>
 <!--horizontal divider(gradiant)-->
 <div align="center">
 
@@ -5,9 +8,6 @@
 
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/name.svg"  alt="Alba Mora de la Sen"/></h1>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Data+and+Process+Analysis+Student;Big+Data+Enthusiast;Future+Cloud+Engineer" alt="Typing SVG" />
-</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p> -->
 <div align="center">
 
