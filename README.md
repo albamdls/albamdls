@@ -10,7 +10,8 @@
 </h3>
 <img align="right" alt="Coding" width="250" src="./assets/me.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p>
-<br>
+<hr>
+```
 I-am-albamdls@github
 -------------------------
 💻 Passionate about Web Development, Big Data and Artificial Intelligence  
@@ -22,6 +23,7 @@ I-am-albamdls@github
 🚩 Interested in AI applied to business, automation and building profitable software  
 💖 In love with tech and creating projects that truly make an impact  
 🎵 Coding always comes with music (lofi, electronic, smooth jazz) and coffee ☕
+```
 <hr>
 
 ## 🤝 Connect with me
