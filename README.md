@@ -44,7 +44,6 @@ I-am-albamdls@github
   <img src="./assets/running_pikachu.gif" width="150" />
   <img src="./assets/running_pikachu.gif" width="150" />
   <img src="./assets/running_pikachu.gif" width="150" />
-  <img src="./assets/running_pikachu.gif" width="150" />
 </p>
 
 <br>
