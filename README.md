@@ -8,11 +8,9 @@
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Data+and+Process+Analysis+Student;Big+Data+Enthusiast;Future+Cloud+Engineer" alt="Typing SVG" />
 </h3>
-<hr>
 <img align="right" alt="Coding" width="250" src="./assets/me.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p>
 <br>
-```
 I-am-albamdls@github
 -------------------------
 💻 Passionate about Web Development, Big Data and Artificial Intelligence  
@@ -24,21 +22,18 @@ I-am-albamdls@github
 🚩 Interested in AI applied to business, automation and building profitable software  
 💖 In love with tech and creating projects that truly make an impact  
 🎵 Coding always comes with music (lofi, electronic, smooth jazz) and coffee ☕
-```
 <hr>
 
 ## 🤝 Connect with me
 
-<div align="center">
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
-</div>
-<div align="center">
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
+
+
+![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
+![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
+![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
 
 <br>
 
