@@ -35,16 +35,15 @@ I-am-albamdls@github
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
 </div>
 <div align="center">
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
-[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
+[![image](https://github.com/albamdls/albamdls/blob/575a617de7745d8b292871bfe4e4b4a4b3f853f1/assets/running_pikachu.gif)]
 </div>
 
 <br>
 
 ## 🛠️ My Skills
 
-<div align="left">
 ### 👨‍💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,8 +81,6 @@ I-am-albamdls@github
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ☁️ Cloud and DevOps (in progress 🚀)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>
 
 <br>
