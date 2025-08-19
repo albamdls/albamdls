@@ -6,20 +6,12 @@
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/name.svg"  alt="Alba Mora de la Sen"/></h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Big+Data+Enthusiast;Future+Cloud+Engineer;Tech+Content+Creator+@jalando.code" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;Data+and+Process+Analysis+Student;Big+Data+Enthusiast;Future+Cloud+Engineer" alt="Typing SVG" />
 </h3>
-
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from Spain  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1ea-1f1f8.svg" width="30"></strong> </h3>
-
-<br><br>
-
-<img align="right" alt="Coding" width="500" height="300" src="./assets/me.png"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p>
-
 <hr>
-
+<img align="right" alt="Coding" width="250" src="./assets/me.png"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=albamdls&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="albamdls" /> </p> -->
+<hr>
 ```
 I-am-albamdls@github
 -------------------------
@@ -31,31 +23,27 @@ I-am-albamdls@github
 🌟 Main languages: JavaScript, Python, Java, PHP  
 🚩 Interested in AI applied to business, automation and building profitable software  
 💖 In love with tech and creating projects that truly make an impact  
-🎵 Coding always comes with music (lofi, electronic, smooth jazz)  
+🎵 Coding always comes with music (lofi, electronic, smooth jazz) and coffee ☕
 ```
-
 <hr>
 
 ## 🤝 Connect with me
 
 <div align="center">
-
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
-  
 </div>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="./assets/running_pikachu.gif" width="200" />
+  <img src="./assets/running_pikachu.gif" width="200" />
+  <img src="./assets/running_pikachu.gif" width="200" />
 </div>
 
 <br>
 
 ## 🛠️ My Skills
-
+<div align="left">
 ### 👨‍💻 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -92,5 +80,6 @@ I-am-albamdls@github
 
 ### ☁️ Cloud and DevOps (in progress 🚀)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
 <br>
