@@ -4,33 +4,20 @@
   <img src="./assets/banner.gif" alt="banner" width="100%" />
 </p>
 
-<!-- <h1 align="center">Hi there 👋 I'm <strong>Alba Mora de la Sen</strong></h1> -->
-<!-- <h3 align="center">Full Stack Developer • Big Data Student • Future AI Engineer</h3> -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=38C6FF&size=22&center=true&vCenter=true&width=700&lines=Building+tech+with+purpose;Web+Development+%7C+Automation+%7C+AI;Learning+Python+for+Data+Science+and+Machine+Learning;Creating+projects+that+solve+real+problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=38C6FF&size=22&center=true&vCenter=true&width=700&lines=Building+tech+with+purpose;Web+Development+%7C+Automation+%7C+Artificial+Intelligence;Learning+Python+for+Data+Science+and+Machine+Learning;Creating+projects+that+solve+real+problems" />
 </p>
-
 
 ## 💾 About Me
 
 ```txt
-💻 Passionate about Web Development, Big Data and Artificial Inteligence  
-📚 Data & Process Analysis student, learning Python for Data Science, ML and AI  
-🚀 Building projects with Java, Spring Boot, Angular, Python, Django & Flask  
-☁️ Preparing for AWS Cloud Practitioner
-🔎 Interested in automation, RAG systems and profitable software ideas  
-🎧 Coding powered by lofi beats and coffee
+💻 Passionate about Full Stack development, Big Data and Artificial Intelligence  
+📚 Data & Process Analysis student, diving deep into Python for Data Science, ML and AI  
+🚀 Building solutions with Java, Spring Boot, Angular, Python, Django & Flask  
+☁️ Preparing for the AWS Cloud Practitioner certification  
+🔎 Exploring automation, RAG systems and software with real business impact  
+🎧 Coding powered by lofi beats and coffee  
 ```
-
-<br>
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/) -->
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -83,6 +70,14 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=brightgreen)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+
+<br>
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/) -->
 
 <br>
 
