@@ -29,18 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-mora-de-la-sen)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalbamora@gmail.com)
-<<<<<<< HEAD
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jalando.code/) -->
-=======
-
-<p align="center">
-  <img src="./assets/running_pikachu.gif" width="100" />
-  <img src="./assets/running_pikachu.gif" width="100" />
-  <img src="./assets/running_pikachu.gif" width="100" />
-  <img src="./assets/running_pikachu.gif" width="100" />
-  <img src="./assets/running_pikachu.gif" width="100" />
-</p>
->>>>>>> ad15f25a3dfccf7ccf91e00e294ec2cb71a988ac
 
 <br>
 
@@ -97,7 +86,6 @@
 
 <br>
 
-<<<<<<< HEAD
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -112,6 +100,3 @@
 </table>
 
 </div>
-=======
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
->>>>>>> ad15f25a3dfccf7ccf91e00e294ec2cb71a988ac
